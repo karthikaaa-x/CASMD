@@ -1,0 +1,34 @@
+platform,post_id,author,kind,created_at,text,likes,forwards,replies,url,video_url,media_sha256,media_phash,forward_from,parent_id,avatar_url
+youtube,1,GulfDesk,video,2026-11-06 09:00:00,"BREAKING: major bridge collapse after explosion, dozens feared trapped. Share before they delete this! #BridgeCollapse",265,0,88,https://youtube.example/GulfDesk/1,https://youtube.com/watch?v=brg0,b992b7a19f7820392b77b494cb795a757211263e169e0b70c998f8786b3948ba,baf7eeccc176bfe0,,,https://cdn.example/av/ring.png
+youtube,2,WorldAlertTV,video,2026-11-06 09:12:00,"URGENT: major bridge collapse after explosion, dozens feared trapped. Share before they delete this! #BridgeCollapse",302,0,62,https://youtube.example/WorldAlertTV/2,https://youtube.com/watch?v=brg1,ebc0932385c433525f8bb0254828809c3deb6855a28a22ebc2777d4b37b05a5f,baf7eeccc176bfe0,,,https://cdn.example/av/ring.png
+youtube,3,RapidNews24,video,2026-11-06 09:24:00,"🚨 BREAKING: major bridge collapse after explosion, dozens feared trapped. Share before they delete this! #BridgeCollapse",137,0,187,https://youtube.example/RapidNews24/3,https://youtube.com/watch?v=brg2,b992b7a19f7820392b77b494cb795a757211263e169e0b70c998f8786b3948ba,baf7eeccc176bfe0,,,https://cdn.example/av/ring.png
+telegram,4,BridgeAlertHQ,message,2026-11-06 11:00:00,"🚨 BREAKING: major bridge collapse after explosion, dozens feared trapped. Share before they delete this! #BridgeCollapse",0,26,0,https://telegram.example/BridgeAlertHQ/4,https://t.me/BridgeAlertHQ/5,b992b7a19f7820392b77b494cb795a757211263e169e0b70c998f8786b3948ba,baf7eeccc176bfe0,,,https://cdn.example/av/ring2.png
+telegram,5,TruthFeed,message,2026-11-06 11:10:00,"BREAKING: major bridge collapse after explosion, dozens feared trapped. Share before they delete this! #BridgeCollapse RT!!",0,43,0,https://telegram.example/TruthFeed/5,https://t.me/TruthFeed/5,b992b7a19f7820392b77b494cb795a757211263e169e0b70c998f8786b3948ba,baf7eeccc176bfe0,tg:BridgeAlertHQ,,https://cdn.example/av/ring2.png
+youtube,6,user_0,comment,2026-11-06 19:00:00,is this bridge collapse video actually real? looks edited to me honestly,64,0,0,https://youtube.example/user_0/6,,,,,1,
+telegram,7,user_1,message,2026-11-07 15:00:00,anyone have a credible source on the bridge explosion? want to verify first,4,0,0,https://telegram.example/user_1/7,,,,,,
+youtube,8,user_2,comment,2026-11-06 23:00:00,"the collapsed bridge footage is all over my feed today, what on earth happened",55,0,0,https://youtube.example/user_2/8,,,,,1,
+telegram,9,user_3,message,2026-11-08 17:00:00,"praying for everyone near that bridge, the explosion in the clip looked huge",8,0,0,https://telegram.example/user_3/9,,,,,,
+youtube,10,user_4,comment,2026-11-07 18:00:00,"mainstream media is weirdly silent on this bridge collapse so far, strange",11,0,0,https://youtube.example/user_4/10,,,,,1,
+telegram,11,user_5,message,2026-11-08 18:00:00,"saw the bridge attack clip going around, genuinely not sure what to believe",7,0,0,https://telegram.example/user_5/11,,,,,,
+youtube,12,user_6,comment,2026-11-07 03:00:00,"my brother drives over that bridge daily, hope the collapse reports are wrong",28,0,0,https://youtube.example/user_6/12,,,,,1,
+telegram,13,user_7,message,2026-11-06 19:00:00,"why are details on the bridge explosion so thin right now, feels off",73,0,0,https://telegram.example/user_7/13,,,,,,
+youtube,14,user_8,comment,2026-11-08 14:00:00,"someone said the collapsed bridge was an old demolition, can anyone confirm",6,0,0,https://youtube.example/user_8/14,,,,,1,
+telegram,15,user_9,message,2026-11-07 16:00:00,the bridge collapse is trending but every account says something different,5,0,0,https://telegram.example/user_9/15,,,,,,
+youtube,16,user_10,comment,2026-11-07 05:00:00,"watched the bridge explosion video twice, the timing of the blast seems odd",37,0,0,https://youtube.example/user_10/16,,,,,1,
+telegram,17,user_11,message,2026-11-08 17:00:00,"local radio has nothing on a bridge collapse near me, is this even recent",18,0,0,https://telegram.example/user_11/17,,,,,,
+youtube,18,user_12,comment,2026-11-07 03:00:00,"following the bridge attack story closely, waiting for an official statement",73,0,0,https://youtube.example/user_12/18,,,,,1,
+telegram,19,user_13,message,2026-11-08 03:00:00,"that bridge collapse clip spread fast, reminds me of old recycled disaster videos",71,0,0,https://telegram.example/user_13/19,,,,,,
+youtube,20,fan_0,comment,2026-11-06 09:03:00,First,0,0,0,https://youtube.example/fan_0/20,,,,,1,
+youtube,21,fan_1,comment,2026-11-06 09:04:00,nice,0,0,0,https://youtube.example/fan_1/21,,,,,1,
+youtube,22,fan_2,comment,2026-11-06 09:05:00,🔥🔥,0,0,0,https://youtube.example/fan_2/22,,,,,1,
+youtube,23,fan_3,comment,2026-11-06 09:06:00,wow,0,0,0,https://youtube.example/fan_3/23,,,,,1,
+youtube,24,fan_4,comment,2026-11-06 09:07:00,amazing,0,0,0,https://youtube.example/fan_4/24,,,,,1,
+youtube,25,GameHub,video,2026-11-06 13:00:00,GTA 6 trailer breakdown — INSANE!!,0,0,0,https://youtube.example/GameHub/25,https://youtube.com/watch?v=gta,0a0eec7be6b03721bf9575ee7deae4332977416804bccad0321f3dd9b034e76c,,,,
+youtube,26,gamer_0,comment,2026-11-06 13:00:00,First!,0,0,0,https://youtube.example/gamer_0/26,,,,,25,
+youtube,27,gamer_1,comment,2026-11-06 13:00:10,Nice video,0,0,0,https://youtube.example/gamer_1/27,,,,,25,
+youtube,28,gamer_2,comment,2026-11-06 13:00:20,GTA 6 is amazing,0,0,0,https://youtube.example/gamer_2/28,,,,,25,
+youtube,29,gamer_3,comment,2026-11-06 13:00:30,Best YouTubers ever,0,0,0,https://youtube.example/gamer_3/29,,,,,25,
+youtube,30,gamer_4,comment,2026-11-06 13:00:40,early,0,0,0,https://youtube.example/gamer_4/30,,,,,25,
+telegram,31,noise_0,message,2026-11-08 05:00:00,join my crypto channel t.me/pump,0,0,0,https://telegram.example/noise_0/31,,,,,,
+telegram,32,noise_1,message,2026-11-06 21:00:00,football 3-1 tonight,0,0,0,https://telegram.example/noise_1/32,,,,,,
+telegram,33,noise_2,message,2026-11-06 16:00:00,free phone giveaway click here,0,0,0,https://telegram.example/noise_2/33,,,,,,
